@@ -1,9 +1,10 @@
-            "apps": [
-                {
-                    "name": "Scarlet",
-                    "version": "v1.0",
-                    "image": "https://usescarletios.neocities.org/scarlet.png",
-                    "get_url": "https://rekonise.com/scarlet-install-hz3y3"
-                }
-            ]
-        };
+{
+    "apps": [
+        {
+            "name": "Scarlet",
+            "version": "v1.0",
+            "image": "https://usescarletios.neocities.org/scarlet.png",
+            "get_url": "https://rekonise.com/scarlet-install-hz3y3"
+        }
+    ]
+}
